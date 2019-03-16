@@ -5,6 +5,7 @@ console.log('line2')
 console.log('line3')
 console.log('line 4')
 console.log('line 5')
+<<<<<<< HEAD
 
 function greeter(name)
 {
@@ -14,3 +15,7 @@ function greeter(name)
 }
 
 greeter('khawahish')
+=======
+console.log('This is another new change')
+console.log('Changes made after branching ')
+>>>>>>> gitlearning
